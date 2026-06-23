@@ -1,0 +1,7 @@
+cd /Users/adityasitapara/PycharmProjects/ECG_Fatigue
+source .venv/bin/activate
+uvicorn Backend.api.main:app --reload --port 8000
+
+
+cd /Users/adityasitapara/PycharmProjects/ECG_Fatigue/Frontend
+npm run dev

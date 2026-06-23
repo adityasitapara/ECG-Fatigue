@@ -1,0 +1,9 @@
+.venv/
+.idea/
+.DS_Store
+
+Backend/Data/mitbih_clean/
+Backend/Data/physionet2017_clean/
+
+Backend/Data/mitbih/mitbih_train.csv
+Backend/Data/mitbih/mitbih_test.csv
